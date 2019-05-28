@@ -1,1 +1,1 @@
-# minipicturecollage.github.io
+# AlbumsMaker.github.io
